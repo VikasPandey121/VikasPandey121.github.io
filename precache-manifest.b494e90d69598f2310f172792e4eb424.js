@@ -1,19 +1,19 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "6fe40fdbf77b624370887ef5b796450e",
+    "revision": "deb97a58b767fe3ac36462e1cc6c61ba",
     "url": "/index.html"
   },
   {
-    "revision": "f091df0dc7146a9fed5f",
+    "revision": "59a27d437b39336198fc",
     "url": "/static/css/main.d65e5f6d.chunk.css"
   },
   {
-    "revision": "f5326b0c2fa11a629a12",
-    "url": "/static/js/2.2f80afeb.chunk.js"
+    "revision": "71f7d74ede725fd43837",
+    "url": "/static/js/2.b4c5e922.chunk.js"
   },
   {
-    "revision": "f091df0dc7146a9fed5f",
-    "url": "/static/js/main.b3910c26.chunk.js"
+    "revision": "59a27d437b39336198fc",
+    "url": "/static/js/main.fe5695b3.chunk.js"
   },
   {
     "revision": "f94ce6991f32804f3866",
@@ -68,12 +68,20 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/static/media/blogs_image.b6b12c7d.svg"
   },
   {
+    "revision": "ebafedde91afa1fcb4e557a14ec7af5a",
+    "url": "/static/media/circle-vik.ebafedde.png"
+  },
+  {
     "revision": "dfcb7a585547c0b125d208b980d6f57f",
     "url": "/static/media/cloud_infrastructure.dfcb7a58.svg"
   },
   {
     "revision": "b3685be8bafcd5fe4786b39cba69a561",
     "url": "/static/media/codeInLogo.b3685be8.png"
+  },
+  {
+    "revision": "9b22e77c89ee4497ccf00e1dca39421b",
+    "url": "/static/media/coding_blocks_logo.9b22e77c.png"
   },
   {
     "revision": "d6d4086fb1cade58b3f786620e17c3ef",
@@ -192,12 +200,12 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/static/media/ibm_logo.6d325fec.png"
   },
   {
-    "revision": "c350d7996596e9909fe72c0938cc9ee5",
-    "url": "/static/media/iiitk_logo.c350d799.png"
-  },
-  {
     "revision": "29152cf756a1facead5393c32e373371",
     "url": "/static/media/intel_logo.29152cf7.jpg"
+  },
+  {
+    "revision": "43169611d12185ab26cc142c49ddd793",
+    "url": "/static/media/internshala_logo.43169611.jpg"
   },
   {
     "revision": "b05ae5b575a7e1125610944dc152c35f",
@@ -220,8 +228,16 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/static/media/nptel_logo.cd7077f7.png"
   },
   {
+    "revision": "975dbe29820a903610d99fa7925c537c",
+    "url": "/static/media/nsut-logo.975dbe29.png"
+  },
+  {
     "revision": "6e7dc5ad476dd2d57600bca9521f3a5d",
     "url": "/static/media/portfolio.6e7dc5ad.gif"
+  },
+  {
+    "revision": "594680dec2ff4f92d75d0b610993a0ee",
+    "url": "/static/media/progection_logo.594680de.png"
   },
   {
     "revision": "c1a95f7335cbfb730b937e19e8830a53",
@@ -236,10 +252,6 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/static/media/pwa.bd5f4148.png"
   },
   {
-    "revision": "da0e7c80b90df28dd3a590c80f3d4970",
-    "url": "/static/media/stanford_logo.da0e7c80.png"
-  },
-  {
     "revision": "de3da8064f2e9ffab945772c2c67e46f",
     "url": "/static/media/talksCardBack.de3da806.svg"
   },
@@ -248,7 +260,19 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/static/media/talksCardBackAlt.7f0feeed.svg"
   },
   {
+    "revision": "8051ccdaeb2c0596ae1db8f4fb66ce26",
+    "url": "/static/media/ten-logo.8051ccda.jpg"
+  },
+  {
+    "revision": "c8da86e3c02b84b778fbac0b04e3bc2d",
+    "url": "/static/media/texas-instruments-logo.c8da86e3.png"
+  },
+  {
     "revision": "67a6a11c47edafb87cf24da66afe3dca",
     "url": "/static/media/ui_ux_design.67a6a11c.svg"
+  },
+  {
+    "revision": "11ec10a5d0e2c70425e500399b47dd97",
+    "url": "/static/media/uot.11ec10a5.png"
   }
 ]);
